@@ -37,6 +37,7 @@ folderSelectPath: /Desktop/italy-mebel-design // Папка по умолчан�
 <p align="center">
   <img src="https://github.com/NekitJavaDev/watermark/blob/master/src/img/example/watermark_example_running1.JPG"/>
 </p>
+
 6. Нажимаем на неё ПКМ и выпадает меню:
     - Загрузить изображение
     - Загрузить несколько изображений
@@ -44,5 +45,6 @@ folderSelectPath: /Desktop/italy-mebel-design // Папка по умолчан�
 <p align="center">
   <img src="https://github.com/NekitJavaDev/watermark/blob/master/src/img/example/watermark_example_running2.JPG"/>
 </p>
+
 7. Заходим в папку из 2) пункта, в которой лежат измененные изображения с префиксом "watermarked_
    {оригинальное_название_файла}.{расширение_файла}" 
