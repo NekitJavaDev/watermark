@@ -61,7 +61,7 @@ public class AmTray {
 
         final SystemTray tray = SystemTray.getSystemTray();
 
-        MenuItem quitItem = new MenuItem("Quit");
+        MenuItem quitItem = new MenuItem("Выход");
         quitItem.addActionListener(actionEvent -> Utils.quit());
 
         MenuItem openFileItem = DownloadUtils.drawSingleDownloadMenuItem(singleSelectPath);
