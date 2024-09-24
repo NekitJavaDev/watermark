@@ -35,14 +35,14 @@ folderSelectPath: /Desktop/italy-mebel-design // Папка по умолчан�
 4. Выбираем папку, куда будут сохранены обработанные изображения
 5. В правом нижнем углу (у Windows) появится иконка с изображением водной капельки
 <p align="center">
-  <img src="https://github.com/NekitJavaDev/watermark/tree/master/src/img/example/watermark_example_running1.JPG"/>
+  <img src="https://github.com/NekitJavaDev/watermark/blob/master/src/img/example/watermark_example_running1.JPG"/>
 </p>
 6. Нажимаем на неё ПКМ и выпадает меню:
     - Загрузить изображение
     - Загрузить несколько изображений
     - Загрузить папку с изображениями
 <p align="center">
-  <img src="https://github.com/NekitJavaDev/watermark/tree/master/src/img/example/watermark_example_running2.JPG"/>
+  <img src="https://github.com/NekitJavaDev/watermark/blob/master/src/img/example/watermark_example_running2.JPG"/>
 </p>
 7. Заходим в папку из 2) пункта, в которой лежат измененные изображения с префиксом "watermarked_
    {оригинальное_название_файла}.{расширение_файла}" 
